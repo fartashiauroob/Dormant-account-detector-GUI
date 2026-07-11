@@ -11,7 +11,7 @@ This project has two versions:
 2. **GUI Version**: It displays the report inside a simple desktop window.
 
 
-# GUI Version:
+# GUI Version
 
 *What it does:*
 Same detection logic as the terminal version, but displayed inside a graphical window instead of the console and is built using **tkinter**, which comes built into Python (no installation needed).
